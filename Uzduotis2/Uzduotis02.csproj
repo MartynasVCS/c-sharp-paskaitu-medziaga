@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3E302E73-2EE0-4115-AB82-5B4AA98B6EE5}</ProjectGuid>
+    <ProjectGuid>{5036CBB7-B656-4A6E-998E-9DA7F28DB539}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Uzduotis4</RootNamespace>
-    <AssemblyName>Uzduotis4</AssemblyName>
+    <RootNamespace>Uzduotis02</RootNamespace>
+    <AssemblyName>Uzduotis02</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

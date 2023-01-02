@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Uzduotis6
+namespace Uzduotis06
 {
     internal class Program
     {

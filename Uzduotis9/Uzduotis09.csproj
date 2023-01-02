@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9FC9B7BA-076D-4D46-8660-E456FC345E4F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Uzduotis9</RootNamespace>
-    <AssemblyName>Uzduotis9</AssemblyName>
+    <RootNamespace>Uzduotis09</RootNamespace>
+    <AssemblyName>Uzduotis09</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

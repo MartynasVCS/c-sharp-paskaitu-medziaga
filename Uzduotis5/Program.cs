@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Uzduotis5
+namespace Uzduotis05
 {
     internal class Program
     {
